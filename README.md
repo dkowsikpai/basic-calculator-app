@@ -1,2 +1,2 @@
-# basic-calculator-app
-Basic calculator android app
+# Basic calculator android app
+This app is basic calculator which will perforn basic arithmetic operation. 
